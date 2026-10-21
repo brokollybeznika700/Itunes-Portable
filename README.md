@@ -218,4 +218,4 @@ iTunes Portable is provided as a complete free version with all features and upd
 Ready to take your media anywhere? Download iTunes Portable now and enjoy the freedom of music and movies on the go!
 
 ---
-**Last updated:** 2026-10-21 17:49:33 UTC
+**Last updated:** 2026-10-21 21:07:31 UTC
